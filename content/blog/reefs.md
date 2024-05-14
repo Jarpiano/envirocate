@@ -6,8 +6,28 @@ image = 'images/Scott-Portelli-under-the-sea.jpg'
 description = ''
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur vulputate dui. Curabitur consectetur efficitur augue id scelerisque. Donec nibh nisl, porta in odio et, ornare faucibus neque. Nunc quis bibendum metus. Praesent blandit quam et felis facilisis, sed mattis augue consequat. Mauris non iaculis dolor, at molestie nisl. Pellentesque sit amet consequat libero. Quisque id purus rutrum, vehicula odio ac, luctus quam. Donec facilisis, neque eget porta lobortis, nibh elit commodo mi, vel tincidunt ante diam nec eros. Vestibulum faucibus nunc sit amet risus convallis consequat eget eget justo. Integer sodales tellus tempor lorem bibendum, id dictum augue accumsan. Nam rutrum viverra ullamcorper.
+## Summary:
+Coral reefs around the world are bleaching and dying across the world due to changes in the oceans' temperature, among other things. This change in conditions kills the algae present within coral and, thus, eliminates the mutual symbiotic relationship between them. As a result, corals begin to bleach and, eventually, wither away. Common examples of this change include the bleaching of the Great Barrier Reef in Australia.
 
-Phasellus hendrerit volutpat est ac blandit. Fusce condimentum augue diam, tempus sodales eros vehicula non. Nulla quis massa in orci semper blandit. Curabitur dapibus urna ac felis aliquet, sit amet blandit sem faucibus. Vestibulum tristique magna volutpat tellus bibendum, eget ullamcorper ligula imperdiet. Mauris eu orci id libero ultrices lobortis. Morbi mollis facilisis scelerisque. Phasellus faucibus odio eu nisl finibus porttitor. Curabitur blandit nec eros sit amet fermentum. Maecenas malesuada viverra neque, sed faucibus enim pellentesque in. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
-Fusce tortor neque, pellentesque vel pellentesque id, laoreet quis nunc. Ut non laoreet turpis, quis tincidunt erat. Morbi pulvinar dolor neque, ut placerat ante tristique ac. Nunc id vestibulum augue. Quisque interdum risus ligula, ac feugiat leo tempor sit amet. Nunc a ipsum nec velit venenatis imperdiet. Donec vehicula aliquet magna et porta. Duis massa quam, faucibus quis luctus sit amet, pharetra vel elit. Nam eget augue at felis posuere fermentum. Etiam ut imperdiet massa, id ullamcorper orci. Fusce non ligula eu erat pellentesque malesuada et in dui. Ut dignissim augue augue, at aliquam purus efficitur interdum. Nullam diam eros, blandit faucibus laoreet in, ultrices non eros. Mauris a vehicula neque. Aliquam a nibh in risus gravida feugiat.
+## Map
+![Coral Bleaching Map](../../images/coralbleaching.png)
+![Ocean Temperatures](../../images/seatem.png)
+###### *Source: NOAA (https://coralreefwatch.noaa.gov/product/5km/)*
+The above images contains data collected by the NOAA Satellite and Information Service, and depicts coral bleaching and ocean temperature data. Near Australia and the oceanic islands, there is a correlation between temperatures and coral bleaching. The alert levels are significantly higher near the equator.
+
+### Things you can do
+Ultimately, the bleaching of the reefs is occuring as a result of climate change. It'll take more than some of us to change the world, but it always helps to start small. You can try:
+  - Reducing greenhouse gases
+  - Contacting politicians
+
+Do you live in Australia?
+  - Clean the beaches
+  - Protect the reefs from damage
+  - Advocate to reduce bottom trawling or other dangerous methods of fishing
+
+### Resources
+Want to donate?
+  - https://rrf.org.au/
+  - https://coral.org/en/
+  - "Adopt A Coral:" https://www.coralguardian.org/en/

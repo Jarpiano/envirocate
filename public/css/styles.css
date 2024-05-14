@@ -39,7 +39,7 @@
 
 /* Base Elements Styles */
 html {
-    background-color: var(--mocha);
+    background-color: var(--primary-bg);
 }
 
 body {

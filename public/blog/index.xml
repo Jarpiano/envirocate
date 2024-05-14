@@ -6,28 +6,35 @@
     <description>Recent content in Blogs on Envirocate</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 May 2024 09:41:18 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 14:24:15 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water</title>
+      <link>http://localhost:1313/blog/water/</link>
+      <pubDate>Tue, 14 May 2024 14:24:15 -0500</pubDate>
+      <guid>http://localhost:1313/blog/water/</guid>
+      <description>Summary Water is one of the most sought after resources on this planet. It&amp;rsquo;s a necessity and can be utilized for agriculture, energy production, and much more.</description>
+    </item>
     <item>
       <title>Air Pollution</title>
       <link>http://localhost:1313/blog/air/</link>
       <pubDate>Tue, 07 May 2024 09:41:18 -0500</pubDate>
       <guid>http://localhost:1313/blog/air/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur vulputate dui. Curabitur consectetur efficitur augue id scelerisque. Donec nibh nisl, porta in odio et, ornare faucibus neque.</description>
+      <description>Summary: Air pollution is a term specifically attributed to chemicals and particles produced by humans that often results in adverse environmental and medical effects.</description>
     </item>
     <item>
       <title>Bleaching of the Reefs</title>
       <link>http://localhost:1313/blog/reefs/</link>
       <pubDate>Mon, 06 May 2024 22:41:47 -0500</pubDate>
       <guid>http://localhost:1313/blog/reefs/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur vulputate dui. Curabitur consectetur efficitur augue id scelerisque. Donec nibh nisl, porta in odio et, ornare faucibus neque.</description>
+      <description>Summary: Coral reefs around the world are bleaching and dying across the world due to changes in the oceans&amp;rsquo; temperature, among other things.</description>
     </item>
     <item>
       <title>Climate Change</title>
       <link>http://localhost:1313/blog/climatechange/</link>
       <pubDate>Mon, 06 May 2024 21:48:21 -0500</pubDate>
       <guid>http://localhost:1313/blog/climatechange/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur vulputate dui. Curabitur consectetur efficitur augue id scelerisque. Donec nibh nisl, porta in odio et, ornare faucibus neque.</description>
+      <description>Summary Climate change is the phenomenon where there are shifts in the current temperature, climate, and weather. Although it is normal for the planet to experience drastic changes in climate, the period by which the climate is changing is much shorter than previous records.</description>
     </item>
   </channel>
 </rss>
