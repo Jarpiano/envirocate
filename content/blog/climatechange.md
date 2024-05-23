@@ -2,7 +2,7 @@
 title = 'Climate Change'
 date = 2024-05-06T21:48:21-05:00
 draft = false
-image = 'images/skynews-arctic-ocean-norway_6319380.jpg'
+image = '../../images/skynews-arctic-ocean-norway_6319380.jpg'
 description = ''
 +++
 

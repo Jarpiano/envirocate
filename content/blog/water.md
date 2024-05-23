@@ -2,7 +2,7 @@
 title = 'Water Pollution'
 date = 2024-05-14T14:24:15-05:00
 draft = false
-image = 'images/water.jpg'
+image = '../../images/water.jpg'
 description = ''
 +++
 

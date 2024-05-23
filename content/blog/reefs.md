@@ -2,7 +2,7 @@
 title = 'Bleaching of the Reefs'
 date = 2024-05-06T22:41:47-05:00
 draft = false
-image = 'images/Scott-Portelli-under-the-sea.jpg'
+image = '../../images/Scott-Portelli-under-the-sea.jpg'
 description = ''
 +++
 

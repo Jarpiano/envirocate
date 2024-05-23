@@ -2,7 +2,7 @@
 title = 'Air Pollution'
 date = 2024-05-07T09:41:18-05:00
 draft = false
-image = 'images/beijing.jpg'
+image = '../../images/beijing.jpg'
 description = ''
 +++
 
